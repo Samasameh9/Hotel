@@ -1,5 +1,5 @@
 import React from "react";
-import bg from "./../../assets/Hotel9.jpg";
+import bg from "./../../assets/hotel9.jpg";
 import AccomodationContent from "./AccomodationContent";
 
 export default function Accomodation() {
