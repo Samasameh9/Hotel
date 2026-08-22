@@ -1,11 +1,6 @@
 import React from "react";
-import bg from "./../../assets/Hotel9.jpg";
-import image from "./../../assets/image.jpg";
+import bg from "../../assets/hotel9.jpg";
 import img1 from "./../../assets/img1.jpg";
-import review3 from "./../../assets/review3.jpg";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay } from "swiper/modules";
-import { Card } from "@heroui/react";
 import "swiper/css";
 import Reviews from "../Reviews/Reviews";
 import Facilities from "../Facilities/Facilities";

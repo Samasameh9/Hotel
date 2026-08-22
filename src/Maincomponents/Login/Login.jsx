@@ -7,7 +7,7 @@ import {
   Button,
 } from "@heroui/react";
 
-import bg from "./../../assets/Hotel9.jpg";
+import bg from "../../assets/hotel9.jgp";
 import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { LoginSchema } from "../../schema/LoginSchema";

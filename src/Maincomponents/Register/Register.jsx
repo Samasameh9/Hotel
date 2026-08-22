@@ -7,7 +7,7 @@ import {
   Button,
 } from "@heroui/react";
 
-import bg from "./../../assets/Hotel9.jpg";
+import bg from "../../assets/Hotel9.jpg"
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { RegisterSchema } from "../../schema/RegisterSchema";
