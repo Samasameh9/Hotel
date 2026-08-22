@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import bg from "./../../assets/Hotel9.jpg";
+import bg from "./../../assets/hotel9.jpg";
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../Context/authcontext";

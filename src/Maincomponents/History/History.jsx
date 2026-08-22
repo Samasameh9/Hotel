@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import bg from "./../../assets/Hotel9.jpg";
+import bg from "./../../assets/hotel9.jpg";
 import { AuthContext } from "../Context/authcontext";
 import { Link, useNavigate } from "react-router-dom";
 import GetBookingHistory from "../../Services/GetBookingHistory";
